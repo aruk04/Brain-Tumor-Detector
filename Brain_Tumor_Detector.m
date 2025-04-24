@@ -22,8 +22,6 @@ function varargout = Brain_Tumor_Detector(varargin)
 
 % Edit the above text to modify the response to help Brain_Tumor_Detector
 
-% Last Modified by GUIDE v2.5 23-Feb-2022 05:01:50
-
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
